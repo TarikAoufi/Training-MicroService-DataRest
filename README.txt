@@ -22,7 +22,7 @@ URL pour tester les WS DATA REST :
 		http://localhost:8080/students?projection=P2
 	
 	+ Si on ajoute /api dans le fichier application.properties
-		http://localhost:8080/api/students?projection=P1 
+		http://localhost:8080/api/students?projection=P1   
 	
 
 			
