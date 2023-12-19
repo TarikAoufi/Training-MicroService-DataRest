@@ -1,6 +1,6 @@
 Demo d'un Micro-Service qui permet de déployer des WS basés sur Spring Data REST.
 
-URL pour tester les WS DATA REST :
+URL pour tester les WS DATA REST : 
 
 	+ Liste des étudiants:		http://localhost:8080/students
 	+ Affiche étudiant par id:	http://localhost:8080/students/id
